@@ -10,7 +10,7 @@ public class Calculadora {
 	private int num1;
     private int num2;
     
-    // picha
+    // Hola soy Enrique
     
 
 
