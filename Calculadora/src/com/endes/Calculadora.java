@@ -12,7 +12,8 @@ public class Calculadora {
 
 
   // ejemplo de comentario.
-  // Comentario de Ruben  
+  // Comentario de Ruben
+  // Comentario de Daniel
   
     /**
      * Iniciar clase
